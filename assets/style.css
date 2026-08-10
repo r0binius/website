@@ -6,7 +6,7 @@
 	--font-03:
 		"EB Garamond", Georgia, "Times New Roman", Times, serif;
 	--font-04: "Source Code Pro", "Monaco", "Consolas", monospace;
-	--font-size: 14px;
+	--font-size: 24px;
 
 	/* Calculating the font-size and line heights using a modular scale:
      *
@@ -421,7 +421,7 @@ figcaption {
 
 @media (max-width: 800px) {
 	:root {
-		--font-size: 20px;
+		--font-size: 24px;
 	}
 
 	#main-container {
@@ -437,7 +437,7 @@ figcaption {
 
 @media (max-width: 500px) {
 	:root {
-		--font-size: 18px;
+		--font-size: 24px;
 	}
 
 	#main-container {
